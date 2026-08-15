@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Dataset (too large for GitHub)
+train_raw/
+test_noisy_lr/
+
+# Old checkpoints (only keeping best)
+models/checkpoint_epoch*.pth
+!models/checkpoint_epoch450.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Images (generated)
+*.png
+!README.md
