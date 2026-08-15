@@ -13,7 +13,7 @@
 | Yuvraj Sharma | Full-stack engineer | [@yuvrajsharma01official](https://github.com/yuvrajsharma01official) |
 | Samridh Nautiyal | Documentation lead | [@QuantumSyntax27](https://github.com/QuantumSyntax27) |
 
-**Mentor** Dr. Brajesh
+**Mentor--** Dr. Brajesh
 
 **College:** SRM University, Sonipat, Haryana
 
