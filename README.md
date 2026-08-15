@@ -11,7 +11,7 @@
 | Tanmay Verma | Team Leader | [@lords-coder](https://github.com/lords-coder) |
 | Karan Agrawal | Lead developer and presenter | [@Karanagrawa1955](https://github.com/Karanagrawa1955) |
 | Samridh Nautiyal | Full-stack engineer | [@QuantumSyntax27](https://github.com/QuantumSyntax27) |
-| Yuvraj Sharma | Documentation lead | — |
+| Yuvraj Sharma | Documentation lead | [@yuvrajsharma01official](https://github.com/yuvrajsharma01official) |
 
 **College:** SRM University, Sonipat, Haryana
 
